@@ -165,6 +165,4 @@ Running the code as described above, you should get the following results. In th
 | **$WeiCom_{\lambda=0.5}$** | **40.08** | 31.45       | 39.94       | 14.27         | 14.14        | 29.78     | 28.28   |
 | **$WeiCom_{\lambda=0.6}$** | 38.20     | **31.59**   | **41.56**   | **14.79**     | **14.53**    | **31.24** | **28.65** |
 
-## Acknowledgement
-[NTUA](https://www.ntua.gr/en/) thanks [NVIDIA](https://www.nvidia.com/en-us/) for the support with the donation of GPU hardware.
 
